@@ -1,4 +1,4 @@
-#' Title
+#' Get and parse the alarmeringsapp rss feed
 #'
 #' @param rss_feed is the url to the advarsels rss feed
 #'

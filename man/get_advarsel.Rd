@@ -2,7 +2,7 @@
 % Please edit documentation in R/get_advarsel.R
 \name{get_advarsel}
 \alias{get_advarsel}
-\title{Title}
+\title{Get and parse the alarmeringsapp rss feed}
 \usage{
 get_advarsel(rss_feed = "https://alarmeringsapp.like.st/rss")
 }
@@ -13,7 +13,7 @@ get_advarsel(rss_feed = "https://alarmeringsapp.like.st/rss")
 a data frame of the ten latest
 }
 \description{
-Title
+Get and parse the alarmeringsapp rss feed
 }
 \examples{
 library(alarmeringsapp)
