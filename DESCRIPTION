@@ -1,0 +1,13 @@
+Package: alarmeringsapp
+Type: Package
+Title: Parses the rss feed from alarmeringsapp
+Version: 0.1.0.9999
+Author: Mikkel Freltoft Krogsholm
+Maintainer: Mikkel Freltoft Krogsholm <mikkel@56n.dk>
+Description: Retrieves and parses the xml data from the alarmeringsapp rss feed
+    as can be found her: https://alarmeringsapp.like.st/rss
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: xml2, tibble, purrr, stringr, anytime
+RoxygenNote: 6.0.1
